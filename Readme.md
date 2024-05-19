@@ -35,6 +35,7 @@ app.listen(3000)
 ```
 
 ## Installation
+## Sagar Sakat
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
